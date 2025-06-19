@@ -71,3 +71,7 @@ Supporting conservation efforts by enabling large-scale, automated monitoring of
 
 Conclusion
 This project showcases the power and flexibility of PyTorch and transfer learning for image classification tasks, even with limited data and computational resources. By following best practices in data preparation, model training, and evaluation, it is possible to build robust and efficient models for specialized applications like flower classification. The techniques demonstrated here can be readily adapted to other image recognition problems, making this project a valuable template for future work in computer vision and deep learning.
+
+#output
+
+<img width="658" alt="Image" src="https://github.com/user-attachments/assets/baf13349-1886-48a1-a905-1fc7ac47fd37" />
