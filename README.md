@@ -74,4 +74,4 @@ This project showcases the power and flexibility of PyTorch and transfer learnin
 
 #output
 
-<img width="658" alt="Image" src="https://github.com/user-attachments/assets/baf13349-1886-48a1-a905-1fc7ac47fd37" />
+ ![Image](https://github.com/user-attachments/assets/ed109440-6b07-479d-8a4d-9800dca7ad0c)
