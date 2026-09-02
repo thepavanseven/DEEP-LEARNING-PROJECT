@@ -1,17 +1,5 @@
 # DEEP-LEARNING-PROJECT
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: RUTTALA PAVAN TEJA
-
-*INTERN ID*: CT06DF466
-
-*DOMAIN*: DATA SCIENCE
-
-*DURATION*: 6 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
 ## Overview
 This project focuses on building an image classification system capable of distinguishing between two types of flowers: roses and tulips. The primary goal is to leverage deep learning techniques, specifically convolutional neural networks (CNNs), to automate the process of flower recognition from digital images. The project demonstrates the full workflow, from data preparation and augmentation to model training, evaluation, and visualization of results, using the PyTorch deep learning framework.
 
